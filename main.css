@@ -137,7 +137,7 @@ body {
 	font-size: 0.8rem;
 }
 
-.cart-btn button{
+.cart-btn button {
 	border: none;
 	background: none;
 	font-size: 1.4rem;
@@ -145,7 +145,7 @@ body {
 }
 
 .cart-btn button:hover
-/* .cart-btn button i */ { 
+/* .cart-btn button i */ {
 	color: #e74c3c;
 	cursor: pointer;
 }
