@@ -405,7 +405,7 @@ cartbtn.forEach((btn, i) => {
 			// icon: "success",
 			title: `${obj[i].title}`,
 			imageHeight: 100,
-			html: `<h2 style="color: #2ecc71;">Congratulations 🥳 you item is cart successfully </h2>`,
+			html: `<h2 style="color: #2ecc71;">Congratulations 🥳 your item is cart successfully </h2>`,
 			timer: 2500,
 		});
 	});
